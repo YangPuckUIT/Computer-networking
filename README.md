@@ -35,34 +35,31 @@ The labs focus on understanding fundamental networking concepts through practica
 Computer-networking/
 │
 ├── Lab1/
-│ ├── Data/
-│ ├── Docs/
-│ └── Report/
+│   ├── Data/
+│   ├── Docs/
+│   └── Report/
 │
 ├── Lab2/
-│ ├── Data/
-│ ├── Docs/
-│ └── Reports/
+│   ├── Data/
+│   ├── Docs/
+│   └── Reports/
 │
 ├── Lab3/
-│ ├── Data/
-│ ├── Docs/
-│ └── Reports/
+│   ├── Data/
+│   ├── Docs/
+│   └── Reports/
 │
 ├── Lab4/
-│ ├── Data/
-│ ├── Docs/
-│ └── Reports/
+│   ├── Docs/
+│   └── Reports/
 │
 ├── Lab5/
-│ ├── Data/
-│ ├── Docs/
-│ └── Reports/
+│   ├── Data/
+│   ├── Docs/
+│   └── Reports/
 │
 ├── Lab6/
-│ ├── Data/
-│ ├── Docs/
-│ └── Reports/
+│   └── Docs/
 │
 └── README.md
 ```
