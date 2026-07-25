@@ -10,17 +10,9 @@ This repository contains Computer Networking lab exercises from the **Computer N
 
 The labs focus on understanding fundamental networking concepts through practical experiments, including packet analysis using Wireshark, HTTP/TCP/UDP protocols, network configuration, and wireless security testing.
 
-## What this Lab helps with:
-
-- Understanding basic computer networking concepts
-- Analyzing network traffic using Wireshark
-- Learning how common protocols work (HTTP, TCP, UDP, etc.)
-- Practicing network configuration with Cisco Packet Tracer
-- Understanding wireless network security concepts
-- Improving skills in capturing and analyzing network packets
-
 ## Technologies & Tools Used:
 
+- Kali Linux (Lab 6)
 - Wireshark
 - Cisco Packet Tracer
 - Network protocols:
@@ -61,6 +53,7 @@ Computer-networking/
 │   └── Reports/
 │
 ├── Lab6/
+│   ├── [Video](https://youtu.be/5W_uGUsYksg)
 │   └── Docs/
 │
 └── README.md
@@ -75,7 +68,7 @@ Computer-networking/
 | Lab 3 | TCP and UDP Protocol analysis |
 | Lab 4 | Network-related experiments |
 | Lab 5 | Configuring Network Devices |
-| Lab 6 | [WPA/WPA2 Security Testing Demo](https://youtu.be/5W_uGUsYksg) |
+| Lab 6 | [Scanning WPA/WPA2 Password Security](https://youtu.be/5W_uGUsYksg) |
 
 ## Folder Description
 
