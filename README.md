@@ -2,11 +2,13 @@
 
 Computer Networks lab reports including packet analysis, network configuration, and protocol experiments with explanations, captured data, and screenshots for each exercise.
 
+---
+
 ## Overview
 
-This repository contains Computer Networking lab exercises completed during the course.
+This repository contains Computer Networking lab exercises from the **Computer Networking (CS4283.Q12.CTTT)** course.
 
-The labs focus on understanding fundamental networking concepts through practical experiments, including packet analysis using Wireshark, HTTP/TCP/UDP protocols, network device configuration, and wireless security testing.
+The labs focus on understanding fundamental networking concepts through practical experiments, including packet analysis using Wireshark, HTTP/TCP/UDP protocols, network configuration, and wireless security testing.
 
 ## What this Lab helps with:
 
