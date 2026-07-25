@@ -75,7 +75,7 @@ Computer-networking/
 | Lab 3 | TCP and UDP Protocol analysis |
 | Lab 4 | Network-related experiments |
 | Lab 5 | Configuring Network Devices |
-| Lab 6 | Scanning WPA/WPA2 Password Security |
+| Lab 6 | [WPA/WPA2 Security Testing Demo](https://youtu.be/5W_uGUsYksg) |
 
 ## Folder Description
 
