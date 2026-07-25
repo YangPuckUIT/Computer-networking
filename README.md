@@ -53,7 +53,6 @@ Computer-networking/
 │   └── Reports/
 │
 ├── Lab6/
-│   ├── [Video](https://youtu.be/5W_uGUsYksg)
 │   └── Docs/
 │
 └── README.md
