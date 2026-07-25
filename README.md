@@ -53,7 +53,8 @@ Computer-networking/
 │   └── Reports/
 │
 ├── Lab6/
-│   └── Docs/
+│   ├── Docs/
+│   └── Video/
 │
 └── README.md
 ```
