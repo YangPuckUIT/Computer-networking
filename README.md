@@ -26,7 +26,7 @@ The labs focus on understanding fundamental networking concepts through practica
 
 ## Lab Structure
 ```
-Computer-networking/
+computer-networking/
 │
 ├── Lab1/
 │   ├── Data/
